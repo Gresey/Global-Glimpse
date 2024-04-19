@@ -1,4 +1,5 @@
-# newsify
+# Global Glimpse
+
 
 A new Flutter project.
 
